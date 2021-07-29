@@ -24,7 +24,7 @@ Activation functions where power of deep learning lies, for visualizing a simple
 
 As data get more distributed it is harder to fit on it for linear function, but non-linear function seems okey and difference is quite obvious.So basically it creates non-linearity.
 
-
+![alt text](https://github.com/semihyazici/Artiwise/blob/main/act_fonk_table.PNG)
 
 # Loss Function:
 
@@ -64,7 +64,7 @@ Using all the data at once and updates them all at once.With this approach we ca
 
 Unlike batch gradient descend it doesn't use all the data at once but rather it uses them batches.With this approach we no longer can find the direct way to minumum but also we no longer have to wait to all the data processed.In conclusion it's faster than batch gradient descend but paths it find is indirect.
 
-# Stochastic Gradient Descent:
+## Stochastic Gradient Descent:
 
 It learns on every example which makes it both fast and path to minumum is more noisy.It's better to use SGD for larger datasets.
 
