@@ -14,7 +14,7 @@ Where data enters the model, computers interst in only tensors so if your data i
 Where all computations happens. 
 
 ## Output Layer:
-Where you get your outputs but it depends on your task if you are working on classification problem what you get will (num_of_classes,1) shaped tensor.
+Where you get desired outputs.
 
 
 # Activation Function:
@@ -58,11 +58,11 @@ Optimizing is basically minimizing the loss with rearranging the weights.Assume 
 
 ## Batch Gradient Descent:
 
-Using all the data at once and updates them all at once.With this approach we can find the direct way to minimum and more data we got standard error becomes less.But this approach has its disadvantages because it uses all the data to update weights, if dataset is large that uses so much time to calculate.So using Batch gradient descend with large dataset is not good approach.
+Using all the data at once and updates them all at once.With this approach we can find the direct way to minimum and more data we got standard error becomes less.But this approach has its disadvantages because it uses all the data to update weights, if dataset is large it uses so much time to calculate new weights.So using Batch gradient descend with large dataset is not so efficient.
 
 ## Minibatch Gradient Descent:
 
-Unlike batch gradient descend it doesn't use all the data at once but rather it uses them batches.With this approach we no longer can find the direct way to minumum but also we no longer have to wait to all the data processed.In conclusion it's faster than batch gradient descend but paths it find is indirect.
+Unlike batch gradient descend it doesn't use all the data at once but rather it uses batches.With this approach we no longer can find the direct way to minumum but also we no longer have to wait to all the data processed.In conclusion it's faster than batch gradient descend but paths it find is indirect.
 
 ## Stochastic Gradient Descent:
 
