@@ -52,7 +52,7 @@ It's often used for multi-class classification problems.
 
 ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.paperspace.com%2Fcontent%2Fimages%2F2018%2F05%2Fchallenges-1.png&f=1&nofb=1)
 
-Optimizing is basically minimizing the loss with rearranging the weights.Assume that we are at the point A.What we are trying to achieve is finding the Global Minimum which rarely happens the reason why is we use derivative to minimize the loss.To visualize it we can think it as a mountain what we are trying to achieve is go to the surface.
+Optimizing is basically minimizing the loss with rearranging the weights.Assume that we are at the point A.What we are trying to achieve is finding the Global Minimum which rarely happens the reason why is we use derivative to minimize the loss.To visualize it we can think it as a mountain what we are trying to achieve is go to the bottom.
 
 ![alt text](https://miro.medium.com/max/700/1*70f9PB-RwFaakqD6lfp4iw.png)
 
