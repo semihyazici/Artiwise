@@ -28,7 +28,7 @@ As data get more distributed it is harder to fit on it for linear function, but 
 
 # Loss Function:
 
-Also known as error function, it indicates the error between what model predicted and what it really is.So basically it's easy to say goal is minimizing the loss function.
+Also known as error function, it indicates the error between what model predicted and what it really is.So basically goal is minimizing the loss function.
 
 ## Mean Square Error(MSE):
 
