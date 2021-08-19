@@ -1,6 +1,5 @@
 # Deep Learning Cheat Sheet
 
-With this cheat sheet you will have a basic understanding of Deep Learning without getting involved math too much.Lets begin ,but first things first, what are the advantages and disadvantages of Deep Learning.
 # Advantages and Disadvantages
 
 ![alt text](https://github.com/semihyazici/Artiwise/blob/main/adv_disadv_dl.PNG)
